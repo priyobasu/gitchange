@@ -1,1 +1,4 @@
 we are having our class
+
+1st change
+we are learning about git
