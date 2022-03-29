@@ -2,3 +2,5 @@ we are having our class
 
 1st change
 we are learning about git
+
+2nd changewe are learning new commands
